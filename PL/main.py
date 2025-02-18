@@ -5,7 +5,7 @@ import numpy as np
 
 # 2
 months = pd.Series([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-                   index=['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'])
+                   index=['january', 'february', 'mart', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'])
 print(months)
 
 # 3
